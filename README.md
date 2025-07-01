@@ -74,6 +74,18 @@ emailscanningsystem/
    - Run the Main file and access the application via browser
 
 ---
+## 🧪 Screenshots
 
+Screenshots demonstrating the interface and scanning functionality are included in the root directory:
+- Screenshot (365).png
+- Screenshot (368).png
+- ...
+- Screenshot (376).png
+
+---
+
+## 📄 Documentation
+
+Final Email Scanning System.docx
 
 
