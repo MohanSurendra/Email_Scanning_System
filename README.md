@@ -26,32 +26,6 @@ It provides administrators with tools to detect suspicious messages, maintain lo
 
 ---
 
-
-
-## 📁 Project Structure
-emailscanningsystem/
-├── pom.xml
-├── email_report.txt
-├── .settings/
-├── src/
-│ └── main/
-│ └── java/
-│ └── com/example/
-│ ├── database/
-│ │ └── DatabaseConnection.java
-│ └── web/
-│ ├── EmailScannerApp.java
-│ ├── LogForm.java
-│ ├── ManageRulesForm.java
-│ ├── ReportsForm.java
-│ └── ViewLogsForm.java
-│
-└── webapp/
-├── META-INF/
-└── WEB-INF/
-└── web.xml
----
-
 ## 🚀 Setup Instructions
 
 1. **Install Prerequisites**
@@ -86,6 +60,6 @@ Screenshots demonstrating the interface and scanning functionality are included 
 
 ## 📄 Documentation
 
-Final Email Scanning System.docx
+email_scanning_system.pdf
 
 
